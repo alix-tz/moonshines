@@ -16,7 +16,7 @@ This dataset is published under the CC-BY 4.0 License.
 To cite this dataset:
 
 ``` 
-Chagué, A. (2023). moonshines (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.1234
+Chagué, A. (2023). moonshines (Version 2.0.0) [Data set]. https://github.com/alix-tz/moonshines
 ```
 
 ## Description
