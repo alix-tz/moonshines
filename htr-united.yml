@@ -3,7 +3,7 @@ title: Moonshines
 url: https://github.com/alix-tz/moonshines
 authors:
 - name: Alix
-  surname: "Chagu\xE9"
+  surname: "Chagué"
   orcid: 0000-0002-0136-4434
   roles:
   - transcriber
@@ -12,8 +12,8 @@ authors:
   - digitization
 institutions: []
 description: "This dataset is composed of pages of text written in 2023 by a single\
-  \ person, copying texts taken from Guillaume Apollinaire\u2019s poems published\
-  \ in Alcools."
+  \ person, copying texts taken from Guillaume Apollinaire's poems published\
+  \ in Alcools, and taken from Guillaume Apollinaire's Wikipedia page."
 language:
 - fra
 production-software: eScriptorium + Kraken
