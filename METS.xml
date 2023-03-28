@@ -107,96 +107,112 @@
           <FLocat xlink:href="data/0026.png"/>
         </file>
       
-        <file ID="image27">
-          <FLocat xlink:href="test/test_01.png"/>
-        </file>
-      
-        <file ID="image28">
-          <FLocat xlink:href="test/test_02.png"/>
-        </file>
-
-        <file ID="image1">
-          <FLocat xlink:href="test/test_04.png"/>
-        </file>
-
-        <file ID="image21">
-          <FLocat xlink:href="test/test_03.png"/>
-        </file>
-      
-        <file ID="image2">
+        <file ID="image2b">
           <FLocat xlink:href="data/1002.png"/>
         </file>
       
-        <file ID="image3">
+        <file ID="image3b">
           <FLocat xlink:href="data/1003.png"/>
         </file>
       
-        <file ID="image4">
+        <file ID="image4b">
           <FLocat xlink:href="data/1004.png"/>
         </file>
       
-        <file ID="image5">
+        <file ID="image5b">
           <FLocat xlink:href="data/1005.png"/>
         </file>
       
-        <file ID="image6">
+        <file ID="image6b">
           <FLocat xlink:href="data/1006.png"/>
         </file>
       
-        <file ID="image7">
+        <file ID="image7b">
           <FLocat xlink:href="data/1007.png"/>
         </file>
       
-        <file ID="image8">
+        <file ID="image8b">
           <FLocat xlink:href="data/1008.png"/>
         </file>
       
-        <file ID="image9">
+        <file ID="image9b">
           <FLocat xlink:href="data/1009.png"/>
         </file>
       
-        <file ID="image10">
+        <file ID="image10b">
           <FLocat xlink:href="data/1010.png"/>
         </file>
       
-        <file ID="image11">
+        <file ID="image11b">
           <FLocat xlink:href="data/1011.png"/>
         </file>
       
-        <file ID="image12">
+        <file ID="image12b">
           <FLocat xlink:href="data/1012.png"/>
         </file>
       
-        <file ID="image13">
+        <file ID="image13b">
           <FLocat xlink:href="data/1013.png"/>
         </file>
       
-        <file ID="image14">
+        <file ID="image14b">
           <FLocat xlink:href="data/1014.png"/>
         </file>
       
-        <file ID="image15">
+        <file ID="image15b">
           <FLocat xlink:href="data/1015.png"/>
         </file>
       
-        <file ID="image16">
+        <file ID="image16b">
           <FLocat xlink:href="data/1016.png"/>
         </file>
       
-        <file ID="image17">
+        <file ID="image17b">
           <FLocat xlink:href="data/1017.png"/>
         </file>
       
-        <file ID="image18">
+        <file ID="image18b">
           <FLocat xlink:href="data/1018.png"/>
         </file>
       
-        <file ID="image19">
+        <file ID="image19b">
           <FLocat xlink:href="data/1019.png"/>
         </file>
       
-        <file ID="image20">
+        <file ID="image20b">
           <FLocat xlink:href="data/1020.png"/>
+        </file>
+
+        <file ID="image1t">
+          <FLocat xlink:href="test/test_01.png"/>
+        </file>
+      
+        <file ID="image2t">
+          <FLocat xlink:href="test/test_02.png"/>
+        </file>
+
+        <file ID="image3t">
+          <FLocat xlink:href="test/test_03.png"/>
+        </file>
+
+        <file ID="image4t">
+          <FLocat xlink:href="test/test_04.png"/>
+        </file>
+
+        <file ID="image5t">
+          <FLocat xlink:href="test/test_05.png"/>
+        </file>
+      
+        <file ID="image6t">
+          <FLocat xlink:href="test/test_06.png"/>
+        </file>
+      
+        <file ID="image7t">
+          <FLocat xlink:href="test/test_07.png"/>
+        </file>
+      
+        <file ID="image8t">
+          <FLocat xlink:href="test/test_08.png"/>
         </file>
       
     </fileGrp>
@@ -307,96 +323,112 @@
           <FLocat xlink:href="data/0026.xml"/>
         </file>
       
-        <file ID="export27">
-          <FLocat xlink:href="test/test_01.xml"/>
-        </file>
-      
-        <file ID="export28">
-          <FLocat xlink:href="test/test_02.xml"/>
-        </file>
-
-        <file ID="export1">
-          <FLocat xlink:href="test/test_04.xml"/>
-        </file>
-
-        <file ID="export21">
-          <FLocat xlink:href="test/test_03.xml"/>
-        </file>
-      
-        <file ID="export2">
+        <file ID="export2b">
           <FLocat xlink:href="data/1002.xml"/>
         </file>
       
-        <file ID="export3">
+        <file ID="export3b">
           <FLocat xlink:href="data/1003.xml"/>
         </file>
       
-        <file ID="export4">
+        <file ID="export4b">
           <FLocat xlink:href="data/1004.xml"/>
         </file>
       
-        <file ID="export5">
+        <file ID="export5b">
           <FLocat xlink:href="data/1005.xml"/>
         </file>
       
-        <file ID="export6">
+        <file ID="export6b">
           <FLocat xlink:href="data/1006.xml"/>
         </file>
       
-        <file ID="export7">
+        <file ID="export7b">
           <FLocat xlink:href="data/1007.xml"/>
         </file>
       
-        <file ID="export8">
+        <file ID="export8b">
           <FLocat xlink:href="data/1008.xml"/>
         </file>
       
-        <file ID="export9">
+        <file ID="export9b">
           <FLocat xlink:href="data/1009.xml"/>
         </file>
       
-        <file ID="export10">
+        <file ID="export10b">
           <FLocat xlink:href="data/1010.xml"/>
         </file>
       
-        <file ID="export11">
+        <file ID="export11b">
           <FLocat xlink:href="data/1011.xml"/>
         </file>
       
-        <file ID="export12">
+        <file ID="export12b">
           <FLocat xlink:href="data/1012.xml"/>
         </file>
       
-        <file ID="export13">
+        <file ID="export13b">
           <FLocat xlink:href="data/1013.xml"/>
         </file>
       
-        <file ID="export14">
+        <file ID="export14b">
           <FLocat xlink:href="data/1014.xml"/>
         </file>
       
-        <file ID="export15">
+        <file ID="export15b">
           <FLocat xlink:href="data/1015.xml"/>
         </file>
       
-        <file ID="export16">
+        <file ID="export16b">
           <FLocat xlink:href="data/1016.xml"/>
         </file>
       
-        <file ID="export17">
+        <file ID="export17b">
           <FLocat xlink:href="data/1017.xml"/>
         </file>
       
-        <file ID="export18">
+        <file ID="export18b">
           <FLocat xlink:href="data/1018.xml"/>
         </file>
       
-        <file ID="export19">
+        <file ID="export19b">
           <FLocat xlink:href="data/1019.xml"/>
         </file>
       
-        <file ID="export20">
+        <file ID="export20b">
           <FLocat xlink:href="data/1020.xml"/>
+        </file>
+
+        <file ID="export1t">
+          <FLocat xlink:href="test/test_01.xml"/>
+        </file>
+      
+        <file ID="export2t">
+          <FLocat xlink:href="test/test_02.xml"/>
+        </file>
+
+        <file ID="export3t">
+          <FLocat xlink:href="test/test_03.xml"/>
+        </file>
+
+        <file ID="export4t">
+          <FLocat xlink:href="test/test_04.xml"/>
+        </file>
+
+        <file ID="export5t">
+          <FLocat xlink:href="test/test_05.xml"/>
+        </file>
+      
+        <file ID="export6t">
+          <FLocat xlink:href="test/test_06.xml"/>
+        </file>
+      
+        <file ID="export7t">
+          <FLocat xlink:href="test/test_07.xml"/>
+        </file>
+      
+        <file ID="export8t">
+          <FLocat xlink:href="test/test_08.xml"/>
         </file>
       
     </fileGrp>
@@ -535,118 +567,139 @@
       </div>
       
       <div TYPE="page">
-        <fptr FILEID="image27"/>
-        <fptr FILEID="export27"/>
+        <fptr FILEID="image2b"/>
+        <fptr FILEID="export2b"/>
       </div>
       
       <div TYPE="page">
-        <fptr FILEID="image28"/>
-        <fptr FILEID="export28"/>
+        <fptr FILEID="image3b"/>
+        <fptr FILEID="export3b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image4b"/>
+        <fptr FILEID="export4b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image5b"/>
+        <fptr FILEID="export5b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image6b"/>
+        <fptr FILEID="export6b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image7b"/>
+        <fptr FILEID="export7b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image8b"/>
+        <fptr FILEID="export8b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image9b"/>
+        <fptr FILEID="export9b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image10b"/>
+        <fptr FILEID="export10b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image11b"/>
+        <fptr FILEID="export11b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image12b"/>
+        <fptr FILEID="export12b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image13b"/>
+        <fptr FILEID="export13b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image14b"/>
+        <fptr FILEID="export14b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image15b"/>
+        <fptr FILEID="export15b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image16b"/>
+        <fptr FILEID="export16b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image17b"/>
+        <fptr FILEID="export17b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image18b"/>
+        <fptr FILEID="export18b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image19b"/>
+        <fptr FILEID="export19b"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image20b"/>
+        <fptr FILEID="export20b"/>
+      </div>
+
+
+      <div TYPE="page">
+        <fptr FILEID="image1t"/>
+        <fptr FILEID="export1t"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image2t"/>
+        <fptr FILEID="export2t"/>
+      </div>
+      
+      <div TYPE="page">
+        <fptr FILEID="image3t"/>
+        <fptr FILEID="export3t"/>
       </div>
 
       <div TYPE="page">
-        <fptr FILEID="image1"/>
-        <fptr FILEID="export1"/>
+        <fptr FILEID="image4t"/>
+        <fptr FILEID="export4t"/>
+      </div>
+
+      <div TYPE="page">
+        <fptr FILEID="image5t"/>
+        <fptr FILEID="export5t"/>
       </div>
       
       <div TYPE="page">
-        <fptr FILEID="image2"/>
-        <fptr FILEID="export2"/>
+        <fptr FILEID="image6t"/>
+        <fptr FILEID="export6t"/>
       </div>
       
       <div TYPE="page">
-        <fptr FILEID="image3"/>
-        <fptr FILEID="export3"/>
+        <fptr FILEID="image7t"/>
+        <fptr FILEID="export7t"/>
       </div>
       
       <div TYPE="page">
-        <fptr FILEID="image4"/>
-        <fptr FILEID="export4"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image5"/>
-        <fptr FILEID="export5"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image6"/>
-        <fptr FILEID="export6"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image7"/>
-        <fptr FILEID="export7"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image8"/>
-        <fptr FILEID="export8"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image9"/>
-        <fptr FILEID="export9"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image10"/>
-        <fptr FILEID="export10"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image11"/>
-        <fptr FILEID="export11"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image12"/>
-        <fptr FILEID="export12"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image13"/>
-        <fptr FILEID="export13"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image14"/>
-        <fptr FILEID="export14"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image15"/>
-        <fptr FILEID="export15"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image16"/>
-        <fptr FILEID="export16"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image17"/>
-        <fptr FILEID="export17"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image18"/>
-        <fptr FILEID="export18"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image19"/>
-        <fptr FILEID="export19"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image20"/>
-        <fptr FILEID="export20"/>
-      </div>
-      
-      <div TYPE="page">
-        <fptr FILEID="image21"/>
-        <fptr FILEID="export21"/>
+        <fptr FILEID="image8t"/>
+        <fptr FILEID="export8t"/>
       </div>
       
     </div>
